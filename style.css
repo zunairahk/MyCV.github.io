@@ -189,3 +189,21 @@ footer {
     margin-top: 100px;
     text-align: center;
 }
+
+/*/////////////////////////////////////VALIDATION.HTML///////////////////////////////////////*/
+.validation1 {
+    border: 10px solid white;       
+    width: 70%;
+    height: 90%;
+    margin-top: 100px;
+    margin-left: 230px;
+}
+
+.validation2 {
+    border: 10px solid white;       
+    width: 70%;
+    height: 90%;
+    margin-bottom: 100px;
+    margin-top: 100px;
+    margin-left: 230px;
+}
