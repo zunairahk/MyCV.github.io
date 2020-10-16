@@ -1,0 +1,191 @@
+.myClass {
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url("Images/background.jpg");
+}
+
+/*/////////////////////////////////////NAVBAR///////////////////////////////////////*/
+.navBar {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+}
+
+.navBarList {
+    float: left;
+}
+
+.navBarList a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    font-size: larger;
+    padding: 25px 20px;
+    text-decoration: none;
+}
+
+.navBarList a:hover {
+    background-color: rgba(0, 0, 0, 0.397);
+}
+
+/*/////////////////////////////////////FOOTER///////////////////////////////////////*/
+footer {
+    padding: 70px;
+    text-align: center;
+    background: #333;
+    color: white;
+}
+
+/*/////////////////////////////////////MY PICTURE///////////////////////////////////////*/
+.myPic {
+    border: 10px solid white;
+    border-radius: 50%;        
+    width: 30%;
+    top: 200px;
+    left: 250px;
+    position: absolute;
+}
+
+/*/////////////////////////////////////MY NAME///////////////////////////////////////*/
+.myName {
+    font-size: 100px;
+    margin-left: 900px;
+    margin-top: 180px;
+    color: white;
+}
+
+/*/////////////////////////////////////QUOTE///////////////////////////////////////*/
+.quote {
+    border: 10px solid white;       
+    width: 70%;
+    height: 90%;
+    margin-bottom: 100px;
+    margin-top: 300px;
+    margin-left: 230px;
+}
+
+/*/////////////////////////////////////INTRODUCTION.HTML///////////////////////////////////////*/
+.introBox {
+    box-sizing: border-box;
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-bottom: 100px;
+    height: 760px;
+    width: 900px;
+    background-color: #333;
+}
+
+.intro {
+    text-align: center;
+    color: white;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: larger;
+}
+
+/*/////////////////////////////////////PROJECTPROPOSAL.HTML///////////////////////////////////////*/
+.proposalBox1 {
+    box-sizing: border-box;
+    margin-top: 100px;
+    margin-left: 200px;
+    height: 350px;
+    width: 900px;
+    background-color: #333;
+}
+
+.proposalBox2 {
+    box-sizing: border-box;
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-bottom: 100px;
+    height: 1400px;
+    width: 900px;
+    background-color: #333;
+}
+
+.proposal1 {
+    text-align: center;
+    color: white;
+    padding: 10px 40px 20px 40px;
+    font-size: larger;
+}
+
+.proposal2 {
+    text-align: left;
+    color: white;
+    padding: 10px 40px 20px 40px;
+    font-size: large;
+}
+
+/*/////////////////////////////////////CV.HTML///////////////////////////////////////*/
+.cvBox1 {
+    box-sizing: border-box;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    height: 900px;
+    width: 400px;
+    background-color: #333;
+}
+
+.cvBox2 {
+    box-sizing: border-box;
+    position: absolute;
+    top: 180px;
+    margin-left: 550px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    height: 900px;
+    width: 700px;
+    background-color: #333;
+}
+
+.cvImage {
+    border: 10px solid white;
+    border-radius: 50%;        
+    width: 60%;
+    margin-top: 50px;
+    margin-left: 80px;
+}
+
+.logo1 {
+    margin-left: -250px;
+    margin-top: 350px;
+    width: 4%;
+    position: absolute;
+}
+
+.logo2 {
+    margin-left: -250px;
+    margin-top: 420px;
+    width: 4%;
+    position: absolute;
+}
+
+.logo3 {
+    margin-left: -250px;
+    margin-top: 490px;
+    width: 4%;
+    position: absolute;
+}
+
+.phone {
+    margin-left: 120px;
+    margin-top: 115px;
+}
+
+.mail {
+    margin-left: 120px;
+    margin-top: 50px;
+}
+
+.linkedin {
+    margin-left: 120px;
+    margin-top: 50px;
+}
+
+.objective {
+    margin-top: 100px;
+    text-align: center;
+}
